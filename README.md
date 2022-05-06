@@ -31,6 +31,7 @@
  }
  ```
  ##### For the /coords endpoint the response looks very similar except with no country information
+ ```json
   {
   "minVal":0.0,
   "maxVal":13.077741562638,
@@ -41,6 +42,7 @@
       "latitude":33.480217,
       "longitude":-86.79633
     }
-  ]
-  }
+   ]
+ }
+ ```
  
