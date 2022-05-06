@@ -1,6 +1,9 @@
 # heatmap-api
 - Simple api with two endpoints to destructure OpenAQ data for heatmap frontend.
-
+## Requirements
+- Install Java 
+- Maven 
+  - sudo apt install maven 
 ## Steps to run heatmap-api
 1. Run "git clone https://github.com/AndresBarreraJ/heatmap-api.git"
 2. In your console go to where the project directory is located.
