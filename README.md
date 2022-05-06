@@ -15,6 +15,7 @@
     - curl -X 'GET' 'localhost:8080/heatmap/coords?coordinates=35.300823,-120.659546&parameter=pm10&radius=10000'
 ###The result of the requests consists of two different objects.
 ##### For the /country endpoint the object looks like:
+```json 
  {
   "minVal":0.0,
   "maxVal":13.077741562638,
@@ -28,6 +29,7 @@
   ],
   "country":"US"
  }
+ ```
  ##### For the /coords endpoint the response looks very similar except with no country information
   {
   "minVal":0.0,
