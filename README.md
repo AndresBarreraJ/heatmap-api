@@ -2,14 +2,14 @@
 - Simple api with two endpoints to destructure OpenAQ data for heatmap frontend.
 ## Requirements
 - Install Java 
-- Maven 
-  - sudo apt install maven 
+
 ## Steps to run heatmap-api
 1. Run "git clone https://github.com/AndresBarreraJ/heatmap-api.git"
 2. In your console go to where the project directory is located.
   - Navigate with your console to /heatmap-api
   - Another way of doing it is by right click the folder /heatmap-api and select open in new terminal
-3. Run "mvn spring-boot:run"
+3. If you have maven and java installed run "mvn spring-boot:run"
+4. If you only have java go to the target folder and run "java -jar oracle-test-0.0.1-SNAPSHOT.jar"
 
 ## Summary:
 ### There are 2 endpoints one that accepts country code and measurment parameters and another that accepts decimal coordinates, radius and measurment parameters.
