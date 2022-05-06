@@ -13,7 +13,7 @@
     - curl -X 'GET' 'localhost:8080/heatmap/country?country=US&parameter=pm1'
   - For decimal coordinates, radius and measurment parameters an example request is:
     - curl -X 'GET' 'localhost:8080/heatmap/coords?coordinates=35.300823,-120.659546&parameter=pm10&radius=10000'
-###The result of the requests consists of two different objects.
+### The result of the requests consists of two different objects.
 ##### For the /country endpoint the object looks like:
 ```json 
  {
