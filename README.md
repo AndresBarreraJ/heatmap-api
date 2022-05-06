@@ -3,7 +3,7 @@ Simple api with two endpoints to destructure OpenAQ data for heatmap frontend.
 
 Steps to run heatmap-api
 1. git clone https://github.com/AndresBarreraJ/heatmap-api.git
-2. In terminal or console got to project directory.
+2. In your console to where the project directory is located.
 3. mvn spring-boot:run
 
 Summary:
