@@ -5,6 +5,7 @@
 1. git clone https://github.com/AndresBarreraJ/heatmap-api.git
 2. In your console go to where the project directory is located.
   - The location should be ~/heatmap-api
+  - Another way of doing it is by right click the folder /heatmap-api and select open in new terminal
 3. mvn spring-boot:run
 
 ## Summary:
