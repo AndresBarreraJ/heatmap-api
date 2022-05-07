@@ -1,7 +1,7 @@
 # heatmap-api
 - Simple api with two endpoints to destructure OpenAQ data for heatmap frontend.
 ## Requirements
-- Java
+- Java 8
 
 ## Steps to run heatmap-api
 1. Run "git clone https://github.com/AndresBarreraJ/heatmap-api.git"
